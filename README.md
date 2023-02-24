@@ -15,4 +15,4 @@ const juanUbeda = {
 }
 ```
 
-https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
+[![linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/juan-%C3%BAbeda-rodr%C3%ADguez-de-tembleque-02844a16a/)
